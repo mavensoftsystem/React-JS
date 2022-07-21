@@ -1,0 +1,27 @@
+input#CreateTask {
+    margin-top: 19px;
+  }
+  input#CancelTask {
+    margin-top: 19px;
+  }
+  input#SearchTasks2 {
+    margin-top: 20px;
+  }
+.main_hedg{ font-size: 18px;
+    background: #ededed;
+    padding: 12px;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+.proje_tabl th{text-align: left;
+    padding: 10px 0 10px 5px;
+    background: #cce2f3;
+    border: 1px solid #c2c2c2;}
+
+
+.TasksGrid{
+  
+    align-self: center;
+}   
+.clear_fix{clear: both;} 
+.btn-r-10{margin-right: 10px;}

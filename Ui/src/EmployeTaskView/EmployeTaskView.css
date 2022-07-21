@@ -1,0 +1,21 @@
+.main_hedg{ font-size: 18px;
+  background: #177dc0;
+  padding: 12px;
+  margin-bottom: 15px;
+  margin-top: 0px;
+}
+.proje_tabl th{text-align: left;
+  padding: 10px 0 10px 5px;
+  background: #cbdfee;
+  border: 1px solid #d19898;}
+
+  .space {
+    width: 4px;
+    height: auto;
+    display: inline-block;
+  }
+ 
+
+.space {
+  padding: auto;
+}
